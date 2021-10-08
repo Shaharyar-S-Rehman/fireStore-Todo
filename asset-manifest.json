@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fireStore-Todo/static/css/main.970c6b71.chunk.css",
+    "main.js": "/fireStore-Todo/static/js/main.d8bbd059.chunk.js",
+    "main.js.map": "/fireStore-Todo/static/js/main.d8bbd059.chunk.js.map",
+    "runtime-main.js": "/fireStore-Todo/static/js/runtime-main.b723940e.js",
+    "runtime-main.js.map": "/fireStore-Todo/static/js/runtime-main.b723940e.js.map",
+    "static/js/2.e0979d63.chunk.js": "/fireStore-Todo/static/js/2.e0979d63.chunk.js",
+    "static/js/2.e0979d63.chunk.js.map": "/fireStore-Todo/static/js/2.e0979d63.chunk.js.map",
+    "static/js/3.7e855f65.chunk.js": "/fireStore-Todo/static/js/3.7e855f65.chunk.js",
+    "static/js/3.7e855f65.chunk.js.map": "/fireStore-Todo/static/js/3.7e855f65.chunk.js.map",
+    "index.html": "/fireStore-Todo/index.html",
+    "static/css/main.970c6b71.chunk.css.map": "/fireStore-Todo/static/css/main.970c6b71.chunk.css.map",
+    "static/js/2.e0979d63.chunk.js.LICENSE.txt": "/fireStore-Todo/static/js/2.e0979d63.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b723940e.js",
+    "static/js/2.e0979d63.chunk.js",
+    "static/css/main.970c6b71.chunk.css",
+    "static/js/main.d8bbd059.chunk.js"
+  ]
+}
